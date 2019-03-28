@@ -1,0 +1,74 @@
+body{
+  background: #191919;
+}
+.signupinfo{
+  position: absolute;
+  margin-left: 34%;
+  margin-right: 50%;
+  top: 50px;
+  border-radius: 20px;
+  width: 400px;
+  color: white;
+  height: 510px;
+  background: #191919;
+}
+
+.signupbtn{
+  border:0;
+  background: none;
+  display: inline;
+  margin: 20px auto;
+  margin-left: 35%;
+  text-align: center;
+  border: 2px solid #2ecc71;
+  padding: 14px 40px;
+  outline: none;
+  color: white;
+  border-radius: 24px;
+  transition: 0.25s;
+  cursor: pointer;
+}
+
+.signupbtn:hover{
+  background: #2ecc71;
+}
+
+.ipbox {
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 10px 15px;
+  margin:5px 20px 10px 79px;
+}
+
+.reg-no{
+  margin:-23px 20px 5px 31px;
+}
+
+.reg-box {
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 10px 15px;
+  margin:5px 20px 10px 14px;
+}
+
+.first-last {
+  margin:25px 20px 5px 30px;
+}
+
+.email-pass {
+  margin:-23px 20px 5px 32px;
+}
+
+.email-box {
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 10px 15px;
+  margin: 5px 20px 10px 105px;
+}
+
+.pass-box{
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 10px 15px;
+  margin: 5px 20px 10px 87px;
+}
